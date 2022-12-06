@@ -1,0 +1,28 @@
+2022-11-27 16:04:50 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Start 
+2022-11-27 16:04:50 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Полезная информация 
+2022-11-27 16:04:50 [WARNING] tsn_java_poi_xlsx.JavaApplication1 - Предупреждаю полезная информация 
+2022-11-27 16:04:50 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - Ошибка информация бесполезна 
+2022-11-27 16:04:50 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - На этом log все , дальше log4 
+2022-11-27 16:04:50 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - My Exception: ERR! 
+2022-11-27 16:04:50 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Идем дальше 
+2022-11-30 21:21:36 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Start 
+2022-11-30 21:21:36 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Полезная информация 
+2022-11-30 21:21:36 [WARNING] tsn_java_poi_xlsx.JavaApplication1 - Предупреждаю полезная информация 
+2022-11-30 21:21:36 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - Ошибка информация бесполезна 
+2022-11-30 21:21:36 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - На этом log все , дальше log4 
+2022-11-30 21:21:36 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - My Exception: ERR! 
+2022-11-30 21:21:36 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Идем дальше 
+2022-11-30 21:27:05 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Start 
+2022-11-30 21:27:05 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Полезная информация 
+2022-11-30 21:27:05 [WARNING] tsn_java_poi_xlsx.JavaApplication1 - Предупреждаю полезная информация 
+2022-11-30 21:27:05 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - Ошибка информация бесполезна 
+2022-11-30 21:27:05 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - На этом log все , дальше log4 
+2022-11-30 21:27:05 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - My Exception: ERR! 
+2022-11-30 21:27:05 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Идем дальше 
+2022-12-06 14:26:46 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Start 
+2022-12-06 14:26:46 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Полезная информация 
+2022-12-06 14:26:46 [WARNING] tsn_java_poi_xlsx.JavaApplication1 - Предупреждаю полезная информация 
+2022-12-06 14:26:46 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - Ошибка информация бесполезна 
+2022-12-06 14:26:46 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - На этом log все , дальше log4 
+2022-12-06 14:26:46 [SEVERE ] tsn_java_poi_xlsx.JavaApplication1 - My Exception: ERR! 
+2022-12-06 14:26:46 [INFO   ] tsn_java_poi_xlsx.JavaApplication1 - Идем дальше 
