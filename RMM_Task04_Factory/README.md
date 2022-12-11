@@ -1,8 +1,8 @@
 ﻿# RMM_Task04_Hibernate
 Пример приложения с Hibernate дляNetBeans на Java со сборщиком Maven
 
-![Screenshot] (RMM_Task04_Hibernate)
-![Screenshot] (RMM_Task04_Hibernate1)
+![Screenshot](RMM_Task04_Hibernate.png)
+![Screenshot](RMM_Task04_Hibernate1.png)
 
 
 pom.xml
