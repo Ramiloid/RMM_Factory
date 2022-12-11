@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="kz.hibernatetask">
+    <class name="Phone" table="phones">
+        <id name="id" column="id" unsaved-value="null">
+            <generator class="native"/>
+        </id>       
+	<many-to-one name="user" column="user_id" class="User" cascade="all"/>
+        <property name="phone" column="phone"/>
+        <property name="type" column="type"/>
+    </class>
+</hibernate-mapping>
